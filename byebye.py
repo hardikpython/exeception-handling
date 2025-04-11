@@ -7,3 +7,5 @@ while not valid:
         valid= True
     except ValueError :
        print("invalid")
+       if diem
+       
